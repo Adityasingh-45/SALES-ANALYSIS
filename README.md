@@ -17,19 +17,22 @@ A complete data analysis project covering **Sales, Overview, and Profit Insights
 
 ### 🔹 Sales Analysis
 
-<img src="images/sales_analysis.png" width="100%"/>
+<img width="1154" height="648" alt="only sales" src="https://github.com/user-attachments/assets/4dafe18e-963b-4aee-a13e-8e3cee435de5" />
+
 
 ---
 
 ### 🔹 Overview Dashboard
 
-<img src="images/overview_dashboard.png" width="100%"/>
+<img width="1155" height="656" alt="overall sales" src="https://github.com/user-attachments/assets/a3026a4e-5345-48c2-ad07-9fe849f7480c" />
+
 
 ---
 
 ### 🔹 Profit Analysis
 
-<img src="images/profit_analysis.png" width="100%"/>
+<img width="1159" height="642" alt="profit analysis" src="https://github.com/user-attachments/assets/e3fcb2b8-de37-401f-b1ab-7718672ebf08" />
+
 
 ---
 
